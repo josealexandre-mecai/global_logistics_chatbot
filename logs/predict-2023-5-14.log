@@ -1,0 +1,4 @@
+unique_id,timestamp,pred,proba,query,model_version,model_name,runtime
+44caa335-cf0b-4ee9-9caa-ad7a6692cd92,2023-05-14 00:14:05,5,1.0,['Hi'],1.0,logistics,0:00:00.610
+e583272d-d4bf-4ae3-a60d-ff563b30d295,2023-05-14 00:14:12,0,0.8530069,['carrier options'],1.0,logistics,0:00:00.285
+1606c2dd-03c7-42cc-9271-559116f27312,2023-05-14 00:15:00,10,1.0,['thanks'],1.0,logistics,0:00:00.217

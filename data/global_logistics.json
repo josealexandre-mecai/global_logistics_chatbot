@@ -1,0 +1,527 @@
+{
+    "intents": [
+        {
+            "intent": "return_initiation",
+            "text": [
+                "How do I initiate a return?",
+                "What's the process for returning an item?",
+                "Can you tell me how to start a return?",
+                "What is the process for starting a return?",
+                "Can you tell me how to begin a return?",
+                "How can I start the return process?",
+                "What steps do I need to take to initiate a return?",
+                "Could you walk me through the process of initiating a return?",
+                "Where can I find instructions for initiating a return?",
+                "What do I need to do to start a return?",
+                "Is there a specific way to start the return process?",
+                "Can you guide me on how to initiate a return?",
+                "What are the procedures for initiating a return?",
+                "What is your return policy?",
+                "Can I return my order if I am not satisfied?"
+            ],
+            "responses": [
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process.",
+                "To initiate a return, please log in to your account and navigate to the 'My Orders' section. Select the order and item(s) you want to return and follow the prompts to complete the return process."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "customs_fees_international",
+            "text": [
+                "Do I have to pay customs fees for international orders?",
+                "How much are the customs fees for international orders?",
+                "What is the process for paying customs fees for international orders?",
+                "Will I be charged customs fees for international orders?",
+                "Are there any additional charges for international orders?",
+                "Do I need to pay import fees for international orders?",
+                "Is customs duty included in the international shipping fee?",
+                "Am I responsible for paying customs fees for international orders?",
+                "What are the customs fees for international orders?",
+                "Are customs fees included in the product price for international orders?",
+                "How much will I have to pay for customs fees for international orders?",
+                "Will I be notified before paying customs fees for international orders?",
+                "Do I have to pay taxes on international orders?"
+            ],
+            "responses": [
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery.",
+                "Yes, customs fees may be charged on international orders depending on the country and the value of the shipment. The amount of the fees varies and is typically assessed by the destination country's customs agency. It is the responsibility of the recipient to pay these fees before the shipment can be released for delivery."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "customs_clearance_process",
+            "text": [
+                "What is the customs clearance process?",
+                "How long does the customs clearance process take?",
+                "Do I need to provide any documentation for customs clearance?",
+                "Can you explain the customs clearance process?",
+                "How does customs clearance work?",
+                "What are the steps involved in customs clearance?",
+                "How much time does customs clearance take?",
+                "Can you provide an overview of customs clearance?",
+                "Is there a specific documentation required for customs clearance?",
+                "What documents do I need for customs clearance?",
+                "Do I need to submit any paperwork for customs clearance?",
+                "Are there any fees associated with customs clearance?",
+                "Can you help me understand the customs clearance requirements?"
+            ],
+            "responses": [
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents.",
+                "Customs clearance is the process of getting permission from the government to import or export goods. This process typically involves submitting documentation to the customs agency, which may include a commercial invoice, packing list, and other supporting documents. The time required for clearance can vary depending on the country and the shipment's contents."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "order_status",
+            "text": [
+                "How can I track my shipment?",
+                "Where can I find the tracking number for my shipment?",
+                "How do I check the status of my package?",
+                "Can you provide me with an update on the delivery status of my order?",
+                "Is there a way for me to track my package online?",
+                "How can I find out when my package will be delivered?",
+                "Where can I go to track my shipment?",
+                "Can I get a tracking number for my order?",
+                "How can I monitor the progress of my shipment?",
+                "What is the best way to track my package?",
+                "When will my shipment be delivered?",
+                "Is there a tracking tool I can use to see where my package is?",
+                "Can you tell me the status of my order?",
+                "Where can I find the status of my order?",
+                "How can I see if my order has shipped?",
+                "How can I track my order?",
+                "Where can I find my tracking number?",
+                "Can I track my package online?",
+                "How can I track my package?"
+            ],
+            "responses": [
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section.",
+                "To check the status of your order, please log in to your account and navigate to the 'My Orders' section."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "order_cancel",
+            "text": [
+                "Can I cancel my order?",
+                "How can I cancel my order?",
+                "Is it possible to cancel my order?",
+                "Can I still cancel my order even after it has been shipped?",
+                "I changed my mind, can I cancel my order?",
+                "How do I cancel my order?",
+                "Is there a deadline to cancel my order?",
+                "Can I cancel my order and get a refund?",
+                "What is the cancellation policy for orders?",
+                "Can I cancel my order without incurring any fees?",
+                "Can I cancel part of my order or only the entire order?",
+                "Will I receive a confirmation if I cancel my order successfully?"
+            ],
+            "responses": [
+                "Yes, you can cancel your order before it has shipped. To do so, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance.",
+                "To cancel your order, log in to your account and go to the 'My Orders' section. If the 'Cancel Order' button is still available, you can click on it to cancel your order. If the button is no longer available, please contact customer service for assistance."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "shipping_cost",
+            "text": [
+                "What is the cost of shipping?",
+                "How much does it cost to ship my package?",
+                "Can you give me an estimate of the shipping cost?",
+                "What are the shipping costs for international orders?",
+                "How much will it cost to ship my package internationally?",
+                "What is the shipping fee?",
+                "How much do I need to pay for shipping?",
+                "Is there a shipping cost?",
+                "Can you tell me the shipping charges?",
+                "What is the shipping rate?",
+                "How much does it cost to ship to [specific location]?",
+                "What is the shipping cost for [specific product]?",
+                "How can I calculate the shipping cost?",
+                "Do you offer free shipping?",
+                "Are there any shipping discounts available?"
+            ],
+            "responses": [
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package.",
+                "The cost of shipping depends on the weight, size, and destination of the package."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "delivery_timeframe",
+            "text": [
+                "When will my order be delivered?",
+                "How long does delivery take?",
+                "What is the estimated delivery timeframe for my order?",
+                "When can I expect to receive my order?",
+                "How soon will my package arrive?",
+                "What is the delivery timeline for my order?",
+                "When will my package be delivered to my address?",
+                "Can you tell me when my order will be delivered?",
+                "What is the expected delivery date for my order?",
+                "How long does it usually take for orders to be delivered?",
+                "When should I expect my package to arrive?",
+                "What is the typical delivery time for orders like mine?",
+                "When can I anticipate the delivery of my package?"
+            ],
+            "responses": [
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination.",
+                "The estimated delivery timeframe depends on the shipping method and destination."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "carrier_selection",
+            "text": [
+                "Can I choose a specific carrier for my shipment?",
+                "What carriers do you use for shipping?",
+                "How do I know which carrier will be used for my shipment?",
+                "Is it possible to select a specific carrier for my shipment?",
+                "Can I request a particular shipping carrier?",
+                "How do you determine which carrier to use for my shipment?",
+                "Do you offer multiple carrier options for shipping?",
+                "Can I choose a different carrier than the one automatically selected?",
+                "Is there an option to upgrade the shipping carrier for my order?",
+                "Can you provide information on the shipping carrier used for my previous orders?",
+                "How do I know if a certain carrier is available for my shipment?",
+                "Is there a way to track my shipment and see which carrier is being used?",
+                "Can you recommend a specific carrier for my shipment based on my location and package size?"
+            ],
+            "responses": [
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected.",
+                "The carriers used for shipping may vary depending on the destination, the weight and dimensions of the package, and the shipping method selected.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information.",
+                "The carrier used for a shipment may depend on various factors such as the destination, the weight and dimensions of the package, and the shipping method selected. It is recommended to check with the carrier or the shipping company for more information."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "greeting",
+            "text": [
+                "Hi",
+                "Hey there",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "Hello there",
+                "What's up",
+                "Greetings",
+                "Howdy",
+                "Hiya",
+                "Good day",
+                "Nice to meet you",
+                "How's it going",
+                "What's happening",
+                "Hey buddy",
+                "Hello friend",
+                "Hi there, stranger",
+                "Salutations",
+                "Top of the morning to you"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hello! How can I assist you today?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hi! What can I help you with?",
+                "Hello! How can I assist you today?",
+                "Hello! How can I assist you today?",
+                "Hello! How can I assist you today?",
+                "Hello! How can I assist you today?",
+                "Hello! How can I assist you today?",
+                "Hello! How can I assist you today?"
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "farewell",
+            "text": [
+                "Take care",
+                "Have a good one",
+                "Later",
+                "See ya",
+                "Adios",
+                "Cheers",
+                "So long",
+                "Until next time",
+                "Peace out",
+                "Bye for now"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "Goodbye! Take care.",
+                "Goodbye! Have a great day!",
+                "Goodbye! Take care.",
+                "Goodbye! Have a great day!",
+                "Goodbye! Have a great day!",
+                "Goodbye! Take care.",
+                "Goodbye! Have a great day!",
+                "Goodbye! Have a great day!",
+                "Goodbye! Take care."
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        },
+        {
+            "intent": "thanks",
+            "text": [
+                "Thank you",
+                "Thanks",
+                "Thanks a lot",
+                "Thank you very much",
+                "I appreciate it",
+                "Many thanks",
+                "Much obliged",
+                "I'm grateful",
+                "Thank you so much",
+                "I can't thank you enough",
+                "You're too kind",
+                "Thanks a bunch",
+                "I owe you one",
+                "That's very thoughtful of you",
+                "Thanks for your help"
+            ],
+            "responses": [
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?",
+                "You're welcome! How else can I assist you?"
+            ],
+            "extension": {
+                "function": "",
+                "entities": false,
+                "responses": []
+            },
+            "context": {
+                "in": "",
+                "out": "",
+                "clear": false
+            },
+            "entityType": "NA",
+            "entities": []
+        }
+    ]
+}

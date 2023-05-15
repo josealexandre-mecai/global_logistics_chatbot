@@ -1,0 +1,13 @@
+ibm-watson-machine-learning
+numpy 
+pandas
+torch==1.12.1
+torchinfo
+transformers
+scikit-learn
+seaborn
+uuid
+joblib
+flask
+onnx
+onnxruntime
